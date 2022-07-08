@@ -113,7 +113,7 @@ li {
 /*=================================
   main styling starts here
 =================================*/
-
+/* content class styling started */
 section.questions {
   width: 46.71%;
   border-radius: 10px;
@@ -151,6 +151,31 @@ label {
 }
 
 li {  padding: 0 0 25px 0;  }
+
+/* content class styling ended */
+
+/* submit class styling started */
+
+.submit {
+  text-align: center;
+  background-color: #8e44ad;
+}
+
+a {
+  width: 100%;
+  font-size: 20px;
+  text-transform: capitalize;
+  padding: 25px 0;
+  color: #fff;
+}
+a:hover{
+  background-color: #732d91;
+}
+a:focus{
+  background-color: #5e3370;
+}
+
+/* submit class styling started */
 
 
 
